@@ -1,5 +1,15 @@
 [
   {
+    "name": "TOJI shirt",
+    "category": "Tops & Shirts",
+    "price": "PKR 1,000",
+    "timing": "Est. Delivery: 2 - 4 Days",
+    "sizes": "S, M, L, XL",
+    "desc": "Men's Cotton Printed T-Shirt",
+    "mainImg": "https://static.markaz.app/pakistan/products/2847-172-746488-product-1.webp",
+    "extraImgs": []
+  },
+  {
     "name": "TOJI ZENEN hoodie",
     "category": "Hoodies & Sweatshirts",
     "price": "PKR 3,000",
