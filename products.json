@@ -1,13 +1,12 @@
 [
   {
     "name": "Aston martin hoodiea (POD)",
-    "category": "Tops & Shirts",
-    "price": "PKR 2,700",
-    "timing": "Est. Delivery: 7- 9 Days",
+    "category": "Hoodies & Sweatshirts",
+    "price": "PKR 2700",
     "sizes": "S, M, L, XL",
-    "desc": "pay 500 first POD",
     "mainImg": "https://i.postimg.cc/gcVF1Fyt/Screenshot-2026-11-15-032341.png",
-    "extraImgs": []
+    "extraImgs": [],
+    "desc": "pay 500 first POD"
   },
   {
     "name": "BMW hoodie( POD)",
